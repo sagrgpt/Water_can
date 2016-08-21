@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Water Can</string>
+
+    <string-array name="location">
+        <item>Abode</item>
+        <item>Esctancia</item>
+        <item>VGN</item>
+        <item>Akshaya</item>
+        <item>Safaa</item>
+    </string-array>
+</resources>
