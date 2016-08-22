@@ -32,7 +32,12 @@ public class BookingActivity extends AppCompatActivity {
         list.setAdapter(list_adapter);
     }
 
-     void increaseFunction(View v){
+    @Override
+    public void onBackPressed() {
+
+    }
+
+    void increaseFunction(View v){
          price = (TextView) findViewById(R.id.price);
          canCount = (TextView) findViewById(R.id.canCount);
          int count = Integer.parseInt(canCount.getText().toString());

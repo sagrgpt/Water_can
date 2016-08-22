@@ -156,23 +156,6 @@
             android:layout_weight="1">
 
             <Button
-                android:background="@color/colorPrimaryDark"
-                android:layout_alignParentBottom="true"
-                android:textColor="@color/colorAccent"
-                android:text="Back"
-                android:layout_marginRight="1dp"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:onClick="backClick"/>
-
-        </RelativeLayout>
-
-        <RelativeLayout
-            android:layout_width="0dp"
-            android:layout_height="match_parent"
-            android:layout_weight="1">
-
-            <Button
                 android:text="Order"
                 android:layout_marginLeft="1dp"
                 android:textColor="@color/colorAccent"
