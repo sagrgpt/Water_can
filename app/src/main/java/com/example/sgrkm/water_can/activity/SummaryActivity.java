@@ -1,8 +1,11 @@
 package com.example.sgrkm.water_can.activity;
 
+import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.view.View;
 import android.widget.TextView;
+
 import com.example.sgrkm.water_can.R;
 import java.util.Calendar;
 
@@ -60,8 +63,9 @@ public class SummaryActivity extends AppCompatActivity {
         }
     }
 
-//    void backClick(View v){
-//        Intent i = new Intent(this, BookingActivity.class);
-//        startActivity(i);
-//    }
+    //Working of the order button //
+    void onClick(View v){
+        Intent i = new Intent(SummaryActivity.this, AddrActivity.class);
+        startActivity(i);
+    }
 }
