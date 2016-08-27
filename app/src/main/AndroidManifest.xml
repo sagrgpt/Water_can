@@ -23,7 +23,7 @@
         <activity
             android:name=".activity.SummaryActivity"
             android:screenOrientation="sensorPortrait" />
-        <activity android:name=".activity.AddrActivity"></activity>
+        <activity android:name=".activity.AddrActivity"/>
     </application>
 
 </manifest>

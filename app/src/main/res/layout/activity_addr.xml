@@ -21,7 +21,8 @@
         android:layout_height="wrap_content"
         android:layout_marginEnd="10dp"
         android:layout_alignTop="@+id/block_textView"
-        android:layout_toEndOf="@+id/block_textView" />
+        android:layout_toEndOf="@+id/block_textView"
+        android:singleLine="true"/>
 
     <TextView
         android:text="Room No.:"
@@ -40,7 +41,8 @@
         android:layout_height="wrap_content"
         android:layout_marginEnd="10dp"
         android:layout_toEndOf="@+id/room_textView"
-        android:layout_alignTop="@+id/room_textView"/>
+        android:layout_alignTop="@+id/room_textView"
+        android:singleLine="true"/>
 
     <Button
         android:id="@+id/submit"
