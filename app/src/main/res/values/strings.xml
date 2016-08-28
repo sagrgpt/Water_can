@@ -1,6 +1,8 @@
 <resources>
     <string name="app_name">Water Can</string>
-
+    <string name="registerButton">Register</string>
+    <string name="login_password">Password</string>
+    <string name="login_email_id">Email ID</string>
     <string-array name="location">
         <item>Abode</item>
         <item>Esctancia</item>

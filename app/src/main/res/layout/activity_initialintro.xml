@@ -38,6 +38,14 @@
             android:textAppearance="?android:attr/textAppearanceMedium"
             android:text="A One Stop Sollution to Water Crisis"
             android:layout_marginTop="5dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="A Friend In Need"
+            android:layout_gravity="center"
+            android:layout_marginTop="5dp"/>
     </LinearLayout>
 
 </LinearLayout>

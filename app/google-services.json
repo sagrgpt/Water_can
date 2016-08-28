@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "883837346614",
+    "firebase_url": "https://water-can-83a08.firebaseio.com",
+    "project_id": "water-can-83a08",
+    "storage_bucket": "water-can-83a08.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:883837346614:android:c8556dfaeb47493f",
+        "android_client_info": {
+          "package_name": "com.example.sgrkm.water_can.activity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "883837346614-jhpg2sqmmcuig8lpo5anggrepcti3c64.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNOcIN-u0rwUjETjWq-lZVGgAHYzp87xM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:883837346614:android:8d7c83112e8c48e1",
+        "android_client_info": {
+          "package_name": "com.example.sgrkm.water_can"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "883837346614-jhpg2sqmmcuig8lpo5anggrepcti3c64.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNOcIN-u0rwUjETjWq-lZVGgAHYzp87xM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -2,6 +2,8 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.sgrkm.water_can">
 
+    <uses-permission android:name="android.permission.INTERNET" />
+
     <application
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
@@ -23,7 +25,8 @@
         <activity
             android:name=".activity.SummaryActivity"
             android:screenOrientation="sensorPortrait" />
-        <activity android:name=".activity.AddrActivity"/>
+        <activity android:name=".activity.AddrActivity" />
+        <activity android:name=".activity.RegisterActivity"></activity>
     </application>
 
 </manifest>
